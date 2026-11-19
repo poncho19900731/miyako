@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>踏査軌跡_20261120_0826</name>
+<description>開始 2026/11/20 08:26 / 終了 2026/11/20 08:26</description>
+<Placemark><name>踏査軌跡</name>
+<Style><LineStyle><color>ff0000ff</color><width>3</width></LineStyle></Style>
+<LineString><tessellate>1</tessellate><coordinates>127.72517180870265,26.21512158102904,0 127.72517180870265,26.21512158102904,0 127.72517180870265,26.21512158102904,0</coordinates></LineString>
+</Placemark></Document></kml>
